@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # RBAC-APP
+LOGIN CREDENTIALS : USERNAME : admin PASSWORD: admin123
 Project Summary: 
 Admin Dashboard for User, Role, and Permission Management:
 This Admin Dashboard is a web-based interface that allows administrators to manage users, roles, and permissions efficiently. Built using ReactJS and styled with Tailwind CSS, it provides a clean and responsive user experience. The dashboard ensures secure access through a login modal, requiring credentials before administrators can access any functionality. Key features include:
