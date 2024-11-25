@@ -1,6 +1,7 @@
 
 # RBAC-APP
 LOGIN CREDENTIALS : USERNAME: admin PASSWORD: admin123
+
 Project Summary: 
 Admin Dashboard for User, Role, and Permission Management:
 This Admin Dashboard is a web-based interface that allows administrators to manage users, roles, and permissions efficiently. Built using ReactJS and styled with Tailwind CSS, it provides a clean and responsive user experience. The dashboard ensures secure access through a login modal, requiring credentials before administrators can access any functionality. Key features include:
